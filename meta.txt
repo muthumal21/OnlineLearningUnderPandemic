@@ -1,0 +1,54 @@
+Attribute information:
+1. Timestamp: Timestamp of the record
+
+2. Are you experiencing e-learning under the pandemic situation?: (Categorical: "Yes", "No")
+
+3. How satisfied or dissatisfied were you with e-learning under the pandemic situation?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+4. How satisfied or dissatisfied were you with the online interaction you had with the lecturers?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+5. How satisfied or dissatisfied were you with the course level of engagement?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+6. How satisfied or dissatisfied were you with the lecture's various online teaching approaches?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+7. How satisfied or dissatisfied were you with the e-learning materials?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+8. How satisfied or dissatisfied were you with your grades with e-learning?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+9. How satisfied or dissatisfied were you with satisfied with staff responsiveness to technical support?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+10. What type of learning method (or methods) are you recommending as future learning:
+(Categorical: "Only online classes", "Blended classrooms", "Only face to face classrooms")
+
+11. What kind of device you used for e-learning?: (Categorical: "Phone", "Tablet", "Computer")
+
+12. How satisfied or dissatisfied were you with satisfied with your internet connectivity?:
+(Categorical: "Very Satisfied", "Satisfied", "Neither Satisfied nor Dissatisfied", "Dissatisfied", "Very Dissatisfied")
+
+13. How often did you face connection interruptions during lectures?: 
+(Categorical: "Always", "Often", "Sometimes","Rarely","Never")
+
+14. What kind of network you are using for e-learning?: (Categorical: "Wireless connectivity", "Cable connectivity", "Fiber optic connectivity")
+
+15. What is your university?: (Categorical: User input)
+
+16. What is your degree program?: (Categorical: User input)
+
+17. Your gender: (Categorical: "Male","Female","Prefer not to say","Other…")
+
+
+18. What is your age?: (Quantative: User input)
+
+19. What is your district?:
+(Categorical: "Ampara", "Anuradhapura", "Badulla", "Batticaloa", "Colombo", "Galle", "Gampaha", "Hambantota", "Jaffna", "Kalutara", "Kandy", "Kegalle", "Kilinochchi", "Kurunegala", "Mannar", "Matale", "Matara", "Monaragala", "Mullaitivu", "Nuwara Eliya", "Polonnaruwa", "Puttalam", "Ratnapura", "Trincomalee", "Vavuniya")
+
+20. What is the nearest city to your home?: (Categorical: User input, not required)
+
+21. What is your grama niladhari divisions?: (Categorical: User input, not required)
